@@ -4,6 +4,7 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,googleapis
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
@@ -32,3 +33,4 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,mail.google.com
 DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,googleapis.com
