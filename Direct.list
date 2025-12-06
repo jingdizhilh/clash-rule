@@ -63,6 +63,8 @@ DOMAIN-SUFFIX,jszyapi.com
 DOMAIN-SUFFIX,cj.ffzyapi.com
 DOMAIN-SUFFIX,cn-test.burn.hair
 DOMAIN-SUFFIX,netlib.re
+DOMAIN-SUFFIX,3key.me
+DOMAIN-SUFFIX,1key.me
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
