@@ -35,4 +35,4 @@ DOMAIN-SUFFIX,mail.google.com
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,services.sheerid.com
-DOMAIN-SUFFIX,sheerid.com
+DOMAIN-SUFFIX,*.sheerid.com
