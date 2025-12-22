@@ -36,3 +36,5 @@ DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,services.sheerid.com
 DOMAIN-SUFFIX,*.sheerid.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,*.googleapis.com
