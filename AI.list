@@ -41,3 +41,4 @@ DOMAIN-SUFFIX,*.googleapis.com
 DOMAIN-SUFFIX,analytics.google.com
 DOMAIN-SUFFIX,*.google.com
 DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,speak.codes
