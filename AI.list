@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,gemini
 DOMAIN-KEYWORD,googleapis
+DOMAIN-KEYWORD,windsurf
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
@@ -42,3 +43,4 @@ DOMAIN-SUFFIX,analytics.google.com
 DOMAIN-SUFFIX,*.google.com
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,speak.codes
+DOMAIN-SUFFIX,windsurf.com
