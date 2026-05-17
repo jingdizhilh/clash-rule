@@ -12,6 +12,13 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,ws.chatgpt.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,auth.openai.com
+DOMAIN-SUFFIX,android.chat.openai.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,desktop.chat.openai.com
+DOMAIN-SUFFIX,ios.chat.openai.com
+DOMAIN-SUFFIX,setup.auth.openai.com
+DOMAIN-SUFFIX,tcr9i.chat.openai.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,ct.sendgrid.net
 DOMAIN-SUFFIX,events.statsigapi.net
@@ -20,6 +27,7 @@ DOMAIN-SUFFIX,featureassets.org
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,js.intercomcdn.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
@@ -30,14 +38,19 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,forwarder.workos.com
 DOMAIN-SUFFIX,humb.apple.com
 DOMAIN-SUFFIX,images.workoscdn.com
+DOMAIN-SUFFIX,o207216.ingest.sentry.io
+DOMAIN-SUFFIX,o33249.ingest.sentry.io
 DOMAIN-SUFFIX,prodregistryv2.org
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,rum.browser-intake-datadoghq.com
 DOMAIN-SUFFIX,statsig.com
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,workos.com
 DOMAIN-SUFFIX,workos.imgix.net
+DOMAIN-SUFFIX,setup.workos.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,js.stripe.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
@@ -52,12 +65,18 @@ DOMAIN-SUFFIX,mail.google.com
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,services.sheerid.com
-DOMAIN-SUFFIX,*.sheerid.com
+DOMAIN-SUFFIX,sheerid.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,*.googleapis.com
 DOMAIN-SUFFIX,analytics.google.com
-DOMAIN-SUFFIX,*.google.com
+DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,speak.codes
 DOMAIN-SUFFIX,windsurf.com
 DOMAIN-SUFFIX,notion.so
+
+# Claude / Anthropic official endpoints
+DOMAIN,api.anthropic.com
+DOMAIN,statsig.anthropic.com
+# Gemini API / Vertex AI official endpoints
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,aiplatform.googleapis.com
